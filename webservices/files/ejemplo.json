@@ -1,0 +1,6 @@
+{
+    "nombre": "Juan Pérez",
+    "edad": 30,
+    "ciudad": "San José",
+    "intereses": ["programación", "música", "deportes"]
+}
